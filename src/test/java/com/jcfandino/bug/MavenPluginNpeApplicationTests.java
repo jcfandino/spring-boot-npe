@@ -1,0 +1,13 @@
+package com.jcfandino.bug;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MavenPluginNpeApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
